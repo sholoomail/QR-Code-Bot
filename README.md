@@ -23,6 +23,12 @@ A telegram qr code encode and decode bot
 
 ---
 
+### Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sholoomail/QR-Code-Bot)
+
+
+
 ## Other Credits
 
 - [Abhijith NT](https://github.com/AbhijithNT) for his [QR Code Bot](https://github.com/AbhijithNT/QRCode-Telegram-bot)
